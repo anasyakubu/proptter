@@ -3,7 +3,7 @@ import Home from "./Home/page";
 
 const page = () => {
   return (
-    <div className="page bg-white text-black">
+    <div className="page bg-white text-black font-nunito-eb">
       <Home />
     </div>
   );
