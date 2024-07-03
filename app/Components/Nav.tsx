@@ -64,24 +64,24 @@ export default function Nav() {
           <div className="hidden lg:flex lg:flex-1 lg:justify-end">
             <a
               href="https://www.instagram.com/anass.developer/"
-              className="p-3 bg-white rounded-full m-2 icon"
+              className="p-3 bg-black rounded-full m-2 icon"
               target="_blank"
             >
-              <FaInstagram className="text-black" />
+              <FaInstagram className="text-white" />
             </a>
             <a
               href="https://www.linkedin.com/in/anas-yakubu-02a20725a/"
-              className="p-3 bg-white rounded-full m-2 icon"
+              className="p-3 bg-black rounded-full m-2 icon"
               target="_blank"
             >
-              <FaLinkedin className="text-black" />
+              <FaLinkedin className="text-white" />
             </a>
             <a
               href="https://github.com/anasyakubu"
-              className="p-3 bg-white rounded-full m-2 icon"
+              className="p-3 bg-black rounded-full m-2 icon"
               target="_blank"
             >
-              <FaGithub className="text-black" />
+              <FaGithub className="text-white" />
             </a>
           </div>
         </nav>
