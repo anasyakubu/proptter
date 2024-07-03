@@ -8,7 +8,7 @@ const Hero = () => {
   return (
     <div className="Hero bg-[#f8f8f8] text-black">
       <Nav />
-      <div className="p-32 py-24">
+      <div className="p-32 py-16">
         <div className="flex justify-center text-center">
           <div className="">
             <h6 className="text-md font-bold" style={{ letterSpacing: "1px" }}>
@@ -22,7 +22,7 @@ const Hero = () => {
             </h1>
           </div>
         </div>
-        <div className="mt-32 my-16 w-2/3 text">
+        <div className="mt-32 w-2/3 text">
           <h6
             className="text-lg font-semibold text-blue-800"
             style={{ letterSpacing: "1px" }}

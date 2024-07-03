@@ -1,0 +1,19 @@
+.MetricsCard {
+  .text-5xl {
+    font-size: 8.5em;
+    line-height: 1.1em;
+    font-weight: 300;
+  }
+}
+
+.line {
+  border-bottom: 0.1px solid #999;
+}
+
+@media (max-width: 600px) {
+  .MetricsCard {
+    .text-5xl {
+      font-size: 4.1em;
+    }
+  }
+}
