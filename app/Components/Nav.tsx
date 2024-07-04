@@ -8,11 +8,11 @@ import Image from "next/image";
 
 const navigation = [
   { name: "Home", href: "/" },
-  { name: "About", href: "/#About" },
+  { name: "About", href: "/" },
   // { name: "Github", href: "https://github.com/anasyakubu", target: "_blank" },
-  { name: "Projects", href: "/Projects" },
-  { name: "Blog", href: "/Blog" },
-  { name: "Contact", href: "/Messages" },
+  { name: "Apps", href: "/" },
+  { name: "Blog", href: "/" },
+  { name: "Contact", href: "/" },
   // { name: "Contact", href: "#" },
 ];
 

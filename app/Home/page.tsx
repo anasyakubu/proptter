@@ -3,6 +3,7 @@ import Hero from "../Section/Hero/Hero";
 import Metrics from "../Section/Metrics/Metrics";
 import AppsDisplay from "../Section/AppsDisplay/AppsDisplay";
 import Community from "../Section/Community/Community";
+import Streets from "../Section/Streets/Streets";
 
 const Home = () => {
   return (
@@ -11,6 +12,7 @@ const Home = () => {
       <Metrics />
       <AppsDisplay />
       <Community />
+      <Streets />
     </div>
   );
 };
