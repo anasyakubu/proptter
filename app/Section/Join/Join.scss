@@ -1,0 +1,17 @@
+.Join {
+  .text-5xl {
+    font-size: 8em;
+  }
+}
+
+@media (max-width: 600px) {
+  .Join {
+    .p-24 {
+      padding: 3%;
+
+      .text-5xl {
+        font-size: 5em;
+      }
+    }
+  }
+}
