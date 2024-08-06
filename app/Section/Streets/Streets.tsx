@@ -15,10 +15,6 @@ const Streets = () => {
             <StreetsCard />
             <StreetsCard />
             <StreetsCard />
-            <StreetsCard />
-            <StreetsCard />
-            <StreetsCard />
-            <StreetsCard />
           </div>
         </div>
       </div>
