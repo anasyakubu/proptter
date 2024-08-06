@@ -5,6 +5,7 @@ import AppsDisplay from "../Section/AppsDisplay/AppsDisplay";
 import Community from "../Section/Community/Community";
 import Streets from "../Section/Streets/Streets";
 import Join from "../Section/Join/Join";
+import Footer from "../Section/Footer/Footer";
 
 const Home = () => {
   return (
@@ -15,6 +16,7 @@ const Home = () => {
       <Community />
       <Streets />
       <Join />
+      <Footer />
     </div>
   );
 };

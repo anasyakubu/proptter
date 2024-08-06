@@ -5,7 +5,7 @@ const Join = () => {
   return (
     <div className="Join bg-[#f8f8f8] text-black">
       <div className="p-24">
-        <div className="my-10">
+        <div className="">
           <div className="text-center">
             <h1 className="text-5xl">
               JOIN US <br /> TODAY
