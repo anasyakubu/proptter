@@ -11,7 +11,7 @@ const Community = () => {
             <h6 className="text-md" style={{ letterSpacing: "0.7px" }}>
               A Community Build by NYM for NYM Family
             </h6>
-            <h3 className="text-5xl mt-3" style={{ letterSpacing: "1px" }}>
+            <h3 className="text-5xl mt-3">
               Our site is fully responsive, ensuring a great user experience on
               any device, whether you`re on a desktop, tablet, or smartphone.
             </h3>
