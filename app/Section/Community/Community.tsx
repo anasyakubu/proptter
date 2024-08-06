@@ -4,7 +4,7 @@ import "./Community.scss";
 
 const Community = () => {
   return (
-    <div className="Community text-[#f8f8f8] bg-black">
+    <div className="Community text-[#f8f8f8] bg-gray-900">
       <div className="p-32">
         <div className="">
           <div className="">
