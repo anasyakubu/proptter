@@ -4,7 +4,7 @@ import User from "../assets/user.png";
 
 const StreetsCard = () => {
   return (
-    <div className="StreetsCard bg-white shadow-md rounded-lg m-1">
+    <div className="StreetsCard bg-white shadow-md rounded-lg">
       <div className="p-3">
         <div className="flex gap-3">
           <Image className="w-10" src={User} alt="User" />
